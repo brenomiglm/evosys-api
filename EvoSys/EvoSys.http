@@ -1,0 +1,6 @@
+@EvoSys_HostAddress = http://localhost:5267
+
+GET {{EvoSys_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
